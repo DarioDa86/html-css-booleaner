@@ -1,3 +1,7 @@
+.container {
+    width: 80%;
+    margin: auto;
+}
 
 #pattern-header {
     background-image: url("../img/pattern.png");
@@ -7,11 +11,16 @@
 
 h1 {
     font-size: 40px;
+    
 }
 
 h3 {
     color: grey;
-    
+}
+
+.autore {
+    color: #20A9E5;
+    text-decoration: none;
 }
 
 .data-articolo {
@@ -29,4 +38,29 @@ h3 {
 
 .colore-riga-tab {
     background-color: #B1E5F2;
+}
+
+.suggerimenti1-footer {
+    background-image: url("../img/monitor.jpg");
+    height: 208px;
+    background-repeat: no-repeat;
+}
+
+.suggerimenti2-footer {
+    background-image: url("../img/graph.jpg");
+    height: 207px;
+    background-repeat: no-repeat;
+    
+}
+
+.titolo-suggerimenti {
+    color: white;
+    padding-top: 8px;
+    padding-left: 8px;
+    font-size: 25px;
+}
+
+table {
+    border-collapse: collapse;
+    cellpadding
 }
