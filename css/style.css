@@ -2,13 +2,22 @@
 #pattern-header {
     background-image: url("../img/pattern.png");
     height: 175px;
-    width: 1050px;
     background-color: #4EA0FF;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h3 {
+    color: grey;
     
 }
 
-.logo-boolenear {
-    
-    
+.data-articolo {
+    color: grey;
+}
 
+.sottolineato {
+    background-color: yellow;
 }
