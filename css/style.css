@@ -1,5 +1,5 @@
 .container {
-    width: 80%;
+    width: 70%;
     margin: auto;
 }
 
@@ -9,13 +9,20 @@
     background-color: #4EA0FF;
 }
 
-h1 {
+.logo-boolenear {
+    margin-top: 80px;
+}
+
+.Titolo {
     font-size: 40px;
-    
+    margin-top: 20px;
+    margin-bottom: 0px;
 }
 
 h3 {
     color: grey;
+    margin-top: 2px;
+    margin-bottom: 3px;
 }
 
 .autore {
@@ -25,15 +32,36 @@ h3 {
 
 .data-articolo {
     color: grey;
+    margin-bottom: 15px;
+}
+
+.didascalie {
+    font-size: 13px;
+    margin-top: 1px;
 }
 
 .sottolineato {
     background-color: yellow;
 }
 
+table {
+    border-collapse: collapse;
+    width:100%;
+    height:auto;
+}
+
+.colonna1 {
+    width: 25%;
+}
+
+.colonna2 {
+    width: 25%;
+}
+
 .intestazione-tabella {
     background-color: #20A9E5;
     color: white;
+    text-align: left;
 }
 
 .colore-riga-tab {
@@ -60,7 +88,3 @@ h3 {
     font-size: 25px;
 }
 
-table {
-    border-collapse: collapse;
-    cellpadding
-}
