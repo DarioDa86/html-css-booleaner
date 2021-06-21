@@ -3,6 +3,7 @@
     margin: auto;
 }
 
+/* header */
 #pattern-header {
     background-image: url("../img/pattern.png");
     height: 175px;
@@ -12,6 +13,7 @@
 .logo-boolenear {
     margin-top: 80px;
 }
+/* /header */
 
 .Titolo {
     font-size: 40px;
@@ -44,6 +46,7 @@ h3 {
     background-color: yellow;
 }
 
+/* tabella */
 table {
     border-collapse: collapse;
     width:100%;
@@ -67,7 +70,9 @@ table {
 .colore-riga-tab {
     background-color: #B1E5F2;
 }
+/* /fine tabella */
 
+/* footer */
 .suggerimenti1-footer {
     background-image: url("../img/monitor.jpg");
     height: 208px;
@@ -87,4 +92,5 @@ table {
     padding-left: 8px;
     font-size: 25px;
 }
+/* /fine footer */
 
