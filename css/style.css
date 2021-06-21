@@ -21,3 +21,12 @@ h3 {
 .sottolineato {
     background-color: yellow;
 }
+
+.intestazione-tabella {
+    background-color: #20A9E5;
+    color: white;
+}
+
+.colore-riga-tab {
+    background-color: #B1E5F2;
+}
